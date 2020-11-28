@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596078018 source:d:\codeblocksw\graph\main.cpp
+	<iostream>
+	"stdlib.h"
+	"stdio.h"
+

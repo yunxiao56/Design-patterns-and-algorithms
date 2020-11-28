@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595943808 source:d:\codeblocksw\list_7_28\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
